@@ -1,4 +1,4 @@
-# Projeto de Processamento de Imagens - PhotoIFMG 📸
+# Projeto de Processamento de Imagens - 📸
 
 Este projeto foi desenvolvido para a disciplina de Processamento de Imagens. A aplicação permite abrir e processar imagens, combinando uma imagem de uma pessoa com uma imagem de paisagem. Além disso, a aplicação aplica um filtro de suavização à imagem de paisagem para criar efeitos visuais interessantes.
 
